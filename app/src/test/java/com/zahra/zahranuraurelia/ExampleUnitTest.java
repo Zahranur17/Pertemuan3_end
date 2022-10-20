@@ -1,4 +1,4 @@
-package com.zahra.pertemuan2;
+package com.zahra.zahranuraurelia;
 
 import org.junit.Test;
 

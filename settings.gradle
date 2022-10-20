@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "pertemuan2"
 include ':app'
+include ':app'
+include ':app'
+include ':app'
